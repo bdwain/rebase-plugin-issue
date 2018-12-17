@@ -1,0 +1,15 @@
+{
+  "name": "rebase-plugin-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bdwain/rebase-plugin-issue.git",
+  "author": "bwain <bwain@grubhub.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rollup": "^0.68.0",
+    "rollup-plugin-rebase": "^2.0.4"
+  },
+  "scripts": {
+    "build": "rollup -c ./rollup.config.js"
+  }
+}

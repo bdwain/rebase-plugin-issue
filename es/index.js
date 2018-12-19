@@ -1,3 +1,3 @@
-import dog from './foo/bar/dog_eaAFPAkx.jpg';
+import dog from 'foo/bar/dog~eaAFPAkx.jpg';
 
 console.log(dog);
